@@ -1,6 +1,6 @@
 from selenium.webdriver.common.by import By
-from EndToEndAutomation.Utility import generate_logger as gl
-from EndToEndAutomation.Utility import configreader as cr
+from Utility import generate_logger as gl
+from Utility import configreader as cr
 import time
 
 

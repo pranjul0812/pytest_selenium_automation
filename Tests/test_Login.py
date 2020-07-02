@@ -1,8 +1,8 @@
 import pytest
 import allure
 from allure_commons.types import AttachmentType
-from EndToEndAutomation.Utility import generate_logger as gl
-from EndToEndAutomation.Pages.registration_page import RegistrationPage
+from Utility import generate_logger as gl
+from Pages.registration_page import RegistrationPage
 from ddt import unpack, data, ddt
 import unittest
 

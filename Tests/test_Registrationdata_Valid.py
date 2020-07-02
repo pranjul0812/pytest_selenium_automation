@@ -1,9 +1,9 @@
 import pytest
-from EndToEndAutomation.Utility import generate_logger as gl
+from Utility import generate_logger as gl
 import time
 from allure_commons.types import AttachmentType
 import allure
-from EndToEndAutomation.Pages.registration_page import RegistrationPage
+from Pages.registration_page import RegistrationPage
 
 
 @pytest.mark.usefixtures("oneTimeSetUp")

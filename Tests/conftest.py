@@ -1,5 +1,5 @@
 import pytest
-from EndToEndAutomation.base.driver_generator import DriverGenerator
+from base.driver_generator import DriverGenerator
 
 
 @pytest.fixture(scope='class')

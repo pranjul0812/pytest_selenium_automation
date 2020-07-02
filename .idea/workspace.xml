@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92ac43c7-d416-4673-82c5-e7d80ba5f0be" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Pages/registration_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/registration_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/test_Login.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/test_Login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/test_Login_pytest_parametrize.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/test_Login_pytest_parametrize.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/test_Login_using_excel.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/test_Login_using_excel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/test_Registrationdata_Valid.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/test_Registrationdata_Valid.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConfigFiles/config.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/ConfigFiles/config.cfg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/base/driver_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/driver_generator.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,14 +13,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/base/driver_generator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="22" column="16" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="72" />
+            <state relative-caret-position="348">
+              <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ConfigFiles/config.cfg">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -52,6 +56,7 @@
         <option value="$PROJECT_DIR$/Tests/test_Login_using_excel.py" />
         <option value="$PROJECT_DIR$/Tests/test_Registrationdata_Valid.py" />
         <option value="$PROJECT_DIR$/base/driver_generator.py" />
+        <option value="$PROJECT_DIR$/ConfigFiles/config.cfg" />
       </list>
     </option>
   </component>
@@ -128,6 +133,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -185,7 +191,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -294,11 +299,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/base/driver_generator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="22" column="16" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="72" />
+        <state relative-caret-position="348">
+          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConfigFiles/Elements.cfg">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConfigFiles/config.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
         </state>
       </provider>
     </entry>
